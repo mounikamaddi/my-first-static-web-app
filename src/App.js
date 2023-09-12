@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <p>
-        I did my homework.
+        I did my homework!
       </p>
       <img src={Lab1Img} width="1200" height="500" alt="Lab1"/>
 
