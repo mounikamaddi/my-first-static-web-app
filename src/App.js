@@ -1,4 +1,5 @@
 import Lab1Img from './Lab1.jpg'; 
+import React from 'react';
 
 function App() {
   return (
