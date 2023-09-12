@@ -1,4 +1,3 @@
-import './App.css';
 import Lab1 from './Lab1.jpg';
 import React from 'react';
 
